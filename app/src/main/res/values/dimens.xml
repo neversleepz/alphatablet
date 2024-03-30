@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="avatar_table_layout_margin">5dp</dimen>
+    <!-- 4 rows, weighted equally -->
+    <dimen name="avatar_table_layout_weight">0.25</dimen>
+    <dimen name="alpha_button_layout_margin">5dp</dimen>
+    <!-- 7 buttons to a row = 1/7 = 0.142... -->
+    <dimen name="alpha_button_layout_weight">0.142</dimen>
+</resources>

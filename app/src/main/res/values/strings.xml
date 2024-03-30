@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">AlphaTablet</string>
+    <string name="letter_a_button_desc">Letter A</string>
+    <string name="letter_b_button_desc">Letter B</string>
+    <string name="letter_c_button_desc">Letter C</string>
+    <string name="letter_D_button_desc">Letter D</string>
+    <string name="letter_E_button_desc">Letter E</string>
+    <string name="letter_F_button_desc">Letter F</string>
+    <string name="letter_G_button_desc">Letter G</string>
+    <string name="letter_H_button_desc">Letter H</string>
+    <string name="letter_I_button_desc">Letter I</string>
+    <string name="letter_J_button_desc">Letter J</string>
+    <string name="letter_K_button_desc">Letter K</string>
+    <string name="letter_L_button_desc">Letter L</string>
+    <string name="letter_M_button_desc">Letter M</string>
+    <string name="letter_N_button_desc">Letter N</string>
+    <string name="letter_O_button_desc">Letter O</string>
+    <string name="letter_P_button_desc">Letter P</string>
+    <string name="letter_Q_button_desc">Letter Q</string>
+    <string name="letter_R_button_desc">Letter R</string>
+    <string name="letter_S_button_desc">Letter S</string>
+    <string name="letter_T_button_desc">Letter T</string>
+    <string name="letter_U_button_desc">Letter U</string>
+    <string name="letter_V_button_desc">Letter V</string>
+    <string name="letter_W_button_desc">Letter W</string>
+    <string name="letter_X_button_desc">Letter X</string>
+    <string name="letter_Y_button_desc">Letter Y</string>
+    <string name="letter_Z_button_desc">Letter Z</string>
+    <string name="music_button_desc">Music Time</string>
+    <string name="sfx_button_desc">Sound Effect Button</string>
 </resources>

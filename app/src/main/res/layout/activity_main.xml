@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0E0E0E">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/avatar_table_layout_margin"
+            android:layout_weight="@dimen/avatar_table_layout_weight">
+
+            <ImageButton
+                android:id="@+id/imageButtonA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_a_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_b_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_c_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_D_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonE"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_E_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_F_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonG"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_G_button_desc"
+                tools:src="@tools:sample/avatars" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/avatar_table_layout_margin"
+            android:layout_weight="@dimen/avatar_table_layout_weight">
+
+            <ImageButton
+                android:id="@+id/imageButtonH"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_H_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_I_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_J_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_K_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonL"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_L_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_M_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonN"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_N_button_desc"
+                tools:src="@tools:sample/avatars" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/avatar_table_layout_margin"
+            android:layout_weight="@dimen/avatar_table_layout_weight">
+
+            <ImageButton
+                android:id="@+id/imageButtonO"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_O_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_P_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonQ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_Q_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_R_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_S_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_T_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonU"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_U_button_desc"
+                tools:src="@tools:sample/avatars" />
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/avatar_table_layout_margin"
+            android:layout_weight="@dimen/avatar_table_layout_weight">
+
+            <ImageButton
+                android:id="@+id/imageButtonSoundEffect"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/sfx_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_V_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonW"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_W_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonX"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_X_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonY"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_Y_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonZ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/letter_Z_button_desc"
+                tools:src="@tools:sample/avatars" />
+
+            <ImageButton
+                android:id="@+id/imageButtonMusic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="@dimen/alpha_button_layout_margin"
+                android:layout_weight="@dimen/alpha_button_layout_weight"
+                android:contentDescription="@string/music_button_desc"
+                tools:src="@tools:sample/avatars" />
+        </TableRow>
+    </TableLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
